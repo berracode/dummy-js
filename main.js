@@ -3,3 +3,5 @@ function sumar(a, b) {
 }
 
 console.log("Tengo ", sumar(1, 2), " años");
+console.log("Tengo ", sumar(1, 2), " años");
+console.log("Tengo ", sumar(1, 2), " años");

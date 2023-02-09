@@ -1,3 +1,10 @@
+console.log("SALUDAR A MANUELA MORENO")
+
+console.log("SALUDAR A WILLIAM RAMÍREZ")
+
+console.log("SALUDAR A SANTIAGO RIVERA")
+
+
 console.log("Hola mundo");
 
 function por(a, b) {

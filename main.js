@@ -12,12 +12,14 @@ for (var i = 0; i < 10; i++) {
 //****************
 ////////////////////////////////////////////////////////////////
 
-function sumar(a, b) {
-    return a + b;
+
+
+function producto(a, b){
+    return a*b;
 }
 
-function multiplicar(a, b){
-    return a*b;
+function dividir(a, b){
+    return a/b;
 }
 
 console.log("Tengo ", sumar(1, 2), " años");
